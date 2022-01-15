@@ -1,0 +1,5 @@
+beans
+-----
+
+.. automodule :: beans
+   :members:
